@@ -20,3 +20,4 @@ while score == "Si":
     except:
         print("Fuera de rango")
     score = input("Desea continuar (Si) (No): ")
+
