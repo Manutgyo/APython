@@ -5,4 +5,7 @@ c =2+4j
 
 #Operadores módulo
 var = 21%2
-print(var)
+#print(var)
+
+for i in range(5):
+    print(i)
